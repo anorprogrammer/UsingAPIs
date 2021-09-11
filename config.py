@@ -1,0 +1,1 @@
+API_KEY_SPORT_DATA = "ee0195d0-09b0-11ec-bde0-b9677498cbb5"
