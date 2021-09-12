@@ -9,5 +9,5 @@ params = (
    ("continent","Asia"),
 )
 
-response = requests.get('https://app.sportdataapi.com/api/v1/soccer/countries', headers=headers, params=params);
+response = requests.get('https://app.sportdataapi.com/api/v1/soccer/countries', headers=headers, params=params)
 pprint(response.json())
